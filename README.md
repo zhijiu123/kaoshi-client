@@ -1,6 +1,6 @@
-# exam-online
+# kaoshi-client
 
-后端代码：https://github.com/520118202/ExamOnline
+后端代码：https://github.com/zhijiu123/kaoshi-server
 
 ## Project setup
 ```
